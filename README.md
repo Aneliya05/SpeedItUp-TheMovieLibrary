@@ -17,6 +17,11 @@
 
 Интерфейсът е изключително user-friendly, така че приложението само ще ви помогне да се ориентирате при работата с него.
 
-
+Към момента в базата данни е налична тази информация:
+Title: Inception | Genre: Science Fiction, Action, Thriller | Release date: 16.7.2010 г. 0:00:00 | Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page
+Title: The Dark Knight | Genre: Action, Crime, Drama | Release date: 18.7.2008 г. 0:00:00 | Actors: Christian Bale, Heath Ledger, Aaron Eckhart
+Title: The Shawshank Redemption | Genre: Drama | Release date: 23.9.1994 г. 0:00:00 | Actors: Tim Robbins, Morgan Freeman, Bob Gunton
+Title: The Matrix | Genre: Science Fiction, Action | Release date: 31.3.1999 г. 0:00:00 | Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss
+Title: Avatar | Genre: Science Fiction, Action, Adventure | Release date: 18.12.2009 г. 0:00:00 | Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver
 
 
