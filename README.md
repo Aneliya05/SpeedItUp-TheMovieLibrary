@@ -16,7 +16,7 @@
  - MovieLibrary, в който има три класа, единият от които (Controller.cs) е пряко свързан с функциите в Business. Display.cs има за цел да извежда съобщения и информация, получена от другите проекти, на конзолата, и разбира се, Program.cs.
 
 Интерфейсът е изключително user-friendly, така че приложението само ще ви помогне да се ориентирате при работата с него.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Към момента в базата данни е налична тази информация:
 Title: Inception | Genre: Science Fiction, Action, Thriller | Release date: 16.7.2010 г. 0:00:00 | Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page
 Title: The Dark Knight | Genre: Action, Crime, Drama | Release date: 18.7.2008 г. 0:00:00 | Actors: Christian Bale, Heath Ledger, Aaron Eckhart
